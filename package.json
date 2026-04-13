@@ -1,0 +1,20 @@
+{
+  "name": "cwe-api-client",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/ElJijuna/cwe-api-client#readme",
+  "bugs": {
+    "url": "https://github.com/ElJijuna/cwe-api-client/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElJijuna/cwe-api-client.git"
+  },
+  "license": "MIT",
+  "author": "pilmee (pilmee@gmail.com)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
