@@ -214,6 +214,12 @@ import type {
 
 ---
 
+## Contributing
+
+See [CONTRIBUTING.md](.github/CONTRIBUTING.md).
+
+---
+
 ## License
 
 [MIT](LICENSE)
