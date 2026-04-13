@@ -1,6 +1,6 @@
 {
   "name": "cwe-api-client",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "type": "module",
   "description": "TypeScript client for the MITRE CWE REST API",
   "main": "dist/index.cjs",
@@ -17,7 +17,6 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsup",
     "build": "tsup",
     "docs": "typedoc",
     "test": "jest",
