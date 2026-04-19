@@ -1,5 +1,10 @@
-# 1.0.0 (2026-04-13)
+## [1.0.1](https://github.com/ElJijuna/cwe-api-client/compare/v1.0.0...v1.0.1) (2026-04-13)
 
+### Bug Fixes
+
+* update actions to deploy en githubpages and update home page in package.json ([e31b1a3](https://github.com/ElJijuna/cwe-api-client/commit/e31b1a39415dd1df5b38e0834b8d128c18e6cb76))
+
+# 1.0.0 (2026-04-13)
 
 ### Features
 
