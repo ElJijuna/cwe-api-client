@@ -33,7 +33,7 @@
     "typescript"
   ],
   "license": "MIT",
-  "author": "pilmee (pilmee@gmail.com)",
+  "author": "pilmee <pilmee@gmail.com> (https://github.com/ElJijuna)",
   "homepage": "https://eljijuna.github.io/cwe-api-client",
   "bugs": {
     "url": "https://github.com/ElJijuna/cwe-api-client/issues"
